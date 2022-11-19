@@ -68,6 +68,11 @@ I'm a Frontend developer.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=Quickar&theme=radical "Quickar")]([https://github.com/LuisEnriqueChavarriaVazquez/Quickar](https://github.com/LuisEnriqueChavarriaVazquez/Quickar))
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=CurVity&theme=radical "CurVity")]([https://github.com/LuisEnriqueChavarriaVazquez/CurVity](https://github.com/LuisEnriqueChavarriaVazquez/CurVity))
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=ClawGrab&theme=radical "ClawGrab")]([https://github.com/LuisEnriqueChavarriaVazquez/ClawGrab](https://github.com/LuisEnriqueChavarriaVazquez/ClawGrab))
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=Regalius&theme=radical "Regalius")]([https://github.com/LuisEnriqueChavarriaVazquez/Regalius](https://github.com/LuisEnriqueChavarriaVazquez/Regalius))
 
 
 
