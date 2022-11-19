@@ -63,7 +63,7 @@ I'm a Frontend developer.
 
 ---
 ### 👀 Active Repos and projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=JCP_helper&theme=radical "JCP_helper")]([https://github.com/LuisEnriqueChavarriaVazquez/JCP_helper](https://github.com/LuisEnriqueChavarriaVazquez/JCP_helper))
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=Quickar&theme=radical "Quickar")]([https://github.com/LuisEnriqueChavarriaVazquez/Quickar](https://github.com/LuisEnriqueChavarriaVazquez/Quickar))
 
