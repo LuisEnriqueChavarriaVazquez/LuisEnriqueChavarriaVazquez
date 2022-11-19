@@ -70,4 +70,3 @@ I'm a Frontend developer.
 ---
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=JCP_helper&theme=radical "JCP_helper")]([https://github.com/UlisesJuarez/Machine-learning](https://github.com/LuisEnriqueChavarriaVazquez/JCP_helper)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Sistemas-distribuidos&theme=highcontrast "Desarrollo de sistemas distribuidos")](https://github.com/UlisesJuarez/Sistemas-distribuidos)
