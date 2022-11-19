@@ -5,7 +5,7 @@
 I'm a Frontend developer.
  🙋 | :octocat:
 ------------ | -------------
-[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlisesJuarez&show_icons=true&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesJuarez&langs_count=15&layout=compact&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)
+[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEnriqueChavarriaVazquez&show_icons=true&theme=tokyonight)](https://github.com/LuisEnriqueChavarriaVazquez/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEnriqueChavarriaVazquez&langs_count=15&layout=compact&theme=tokyonight)](https://github.com/LuisEnriqueChavarriaVazquez/github-readme-stats)
 
 ----
 
@@ -63,10 +63,10 @@ I'm a Frontend developer.
   [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=link)](link)
 
   **SQL-->**
-  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/UlisesJuarez))
-  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/UlisesJuarez))
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/UlisesJuarez))
+  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/LuisEnriqueChavarriaVazquez))
+  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/LuisEnriqueChavarriaVazquez))
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/LuisEnriqueChavarriaVazquez))
 
 ---
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=JCP_helper&theme=radical "JCP_helper")]([https://github.com/UlisesJuarez/Machine-learning](https://github.com/LuisEnriqueChavarriaVazquez/JCP_helper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=JCP_helper&theme=radical "JCP_helper")]([https://github.com/LuisEnriqueChavarriaVazquez/Machine-learning](https://github.com/LuisEnriqueChavarriaVazquez/JCP_helper))
