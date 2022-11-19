@@ -1,21 +1,23 @@
-# Hello! I'm Ulises
+# Hi! My name is Luis.
 
 ----
 
-I'm a Mexican full stack developer.
+I'm a Frontend developer.
  🙋 | :octocat:
 ------------ | -------------
-[![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlisesJuarez&show_icons=true&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesJuarez&langs_count=15&layout=compact&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)
+[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlisesJuarez&show_icons=true&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesJuarez&langs_count=15&layout=compact&theme=tokyonight)](https://github.com/UlisesJuarez/github-readme-stats)
 
 ----
 
 ### Skills
 
 - Web Development
-- APIs
-- Desktop APPs
-- Back Development
-- Data Science with Python
+- Work with APIs and APIs REST
+- Webs to Android
+- SPA development
+- Material Design Paradigm
+- Flask and React
+- Backend knowledge
 
 ----
 
@@ -35,7 +37,7 @@ I'm a Mexican full stack developer.
 
 ----
 
-### Other Languages I know
+### Languages and tool I've worked with
 
   **Python-->**
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=link)](link)
@@ -43,15 +45,22 @@ I'm a Mexican full stack developer.
   [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=link)](link)
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=link)](link)
   [![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&link=link)](link)
-  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=link)](link)
-
+  
+  **Ecmascript (JS)-->**
+  [![Ecmascript 13 most recent additions](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=link)](link)
+  [![Typescript](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=link)](link)
+  [![Jquery](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=link)](link)
+  [![JSX](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=link)](link)
+  [![Splide.js](https://img.shields.io/badge/-Django-green?style=flat&logo=django&link=link)](link)
 
   **Java-->**
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=link)](link) 
   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=link)](link) 
   [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=link)](link)
-  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=link)](link)
 
+  **More...-->**
+  [![REST-API](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=link)](link)
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=link)](link)
 
   **SQL-->**
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)]([https://github.com/Quananhle](https://github.com/UlisesJuarez))
@@ -60,5 +69,5 @@ I'm a Mexican full stack developer.
 
 ---
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Machine-learning&theme=radical "Machine learning intro")](https://github.com/UlisesJuarez/Machine-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisEnriqueChavarriaVazquez&repo=JCP_helper&theme=radical "JCP_helper")]([https://github.com/UlisesJuarez/Machine-learning](https://github.com/LuisEnriqueChavarriaVazquez/JCP_helper)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlisesJuarez&repo=Sistemas-distribuidos&theme=highcontrast "Desarrollo de sistemas distribuidos")](https://github.com/UlisesJuarez/Sistemas-distribuidos)
