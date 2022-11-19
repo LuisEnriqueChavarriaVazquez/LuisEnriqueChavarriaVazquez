@@ -37,10 +37,11 @@ I'm a Frontend developer.
   [![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&link=link)](link)
   
   **JS and TS-->**
-  [![Ecmascript 13 most recent additions](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=link)](link)
-  [![Typescript](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=link)](link)
-  [![Jquery](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=link)](link)
-  [![JSX](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=link)](link)
+  [![Ecmascript 13 most recent additions](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=black&link=link)](link)
+  [![Typescript](https://img.shields.io/badge/-Typescript-0091ea?style=flat&logo=typescript&logoColor=white&link=link)](link)
+  [![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)](link)
+  [![Jquery](https://img.shields.io/badge/-Jquery-0091ea?style=flat&logo=jquery&logoColor=white&link=link)](link)
+  [![JSX](https://img.shields.io/badge/-JSX-red?style=flat&link=link)](link)
   [![Splide.js](https://img.shields.io/badge/-Splide-red?style=flat&link=link)](link)
   [![Dragula.js](https://img.shields.io/badge/-Dragula-red?style=flat&link=link)](link)
   [![Owl Carousel.js](https://img.shields.io/badge/-OwlCarousel-red?style=flat&link=link)](link)
