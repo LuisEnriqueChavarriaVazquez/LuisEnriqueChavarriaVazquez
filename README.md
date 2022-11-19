@@ -28,10 +28,9 @@ I'm a Frontend developer.
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Material Design-563D7C?style=flat&logo=materialdesign&logoColor=white">
+<img src="https://img.shields.io/badge/-Material Design-EE6E73?style=flat&logo=materialdesign&logoColor=white">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Flask-FFFFFF?style=flat&logo=flask&logoColor=000">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
